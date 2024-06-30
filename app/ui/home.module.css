@@ -1,0 +1,8 @@
+.shape {
+    height: 0;
+    width: 0;
+    /* truco para hacer un triangulo en css */
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 30px solid black;
+}
