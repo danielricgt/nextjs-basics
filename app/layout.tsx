@@ -11,6 +11,7 @@ export default function RootLayout({
         <h1>Este titulo</h1>
   
         {children}
+        <footer className='py/10 flex justify-center items-center'>Hecho con ♥️ por la gente de vercel  </footer>
        
         
         </body>
